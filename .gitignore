@@ -23,4 +23,6 @@
 hs_err_pid*
 replay_pid*
 
+#folders for dev notes
 .obsidian/
+dev_notes/
