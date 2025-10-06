@@ -26,3 +26,6 @@ replay_pid*
 #folders for dev notes
 .obsidian/
 dev_notes/
+
+#commit template
+.gitmessage.txt
