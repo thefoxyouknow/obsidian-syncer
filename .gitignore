@@ -27,5 +27,6 @@ replay_pid*
 .obsidian/
 dev_notes/
 
-#commit template
+#settings for git
 .gitmessage.txt
+.gitattributes.txt
